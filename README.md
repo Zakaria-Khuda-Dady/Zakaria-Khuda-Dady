@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zakaria Khuda Dady</h1>
 <h3 align="center">A passionate MERN full stack developer, a Cloud Practitioner from the UK</h3>
-<img margin-top="500px" align="right" alt="Coding" src="[https://images.pexels.com/photos/247791/pexels-photo-247791.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1](https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg)" alt="Girl in a jacket" width="400">
+<img margin-top="500px" align="right" alt="Coding" src="https://www.shutterstock.com/shutterstock/videos/1085140235/thumb/10.jpg?ip=x480" alt="Girl in a jacket" width="400">
 
 - 🔭 I’m currently working on **building A multi-tier, highly available, and fault-tolerant web application with MERN and AWSS?**
 
