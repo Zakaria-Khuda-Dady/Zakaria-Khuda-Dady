@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN full stack developer, a Cloud Practitioner from the UK</h3>
 <img margin-top="500px" align="right" alt="Coding" src="https://www.shutterstock.com/shutterstock/videos/1085140235/thumb/10.jpg" alt="Girl in a jacket" width="400">
 
-- 🔭 I’m currently working on **building A multi-tier, highly available, and fault-tolerant web application with MERN and AWSS?**
+- 🔭 I’m currently working on **building A multi-tier, highly available, and fault-tolerant web application with MERN and AWS?**
 
 - 🌱 I’m currently learning **Docker**
 
