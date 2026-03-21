@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **zakaria.khudadady@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1v2fvrOPSScSBlxnizN-Oedx9s08fevH987V5wSeM-8U/edit](https://docs.google.com/document/d/1v2fvrOPSScSBlxnizN-Oedx9s08fevH987V5wSeM-8U/edit)
+- 📄 Know about my experiences [https://docs.google.com/document/d/10KlXPqeKz4XsBcvOogNiJY1ZzLuB7E_ExIZa_C0rFHw/edit?usp=sharing](https://docs.google.com/document/d/1v2fvrOPSScSBlxnizN-Oedx9s08fevH987V5wSeM-8U/edit)
 
 - ⚡ Fun fact **I think I am Funny**
 
