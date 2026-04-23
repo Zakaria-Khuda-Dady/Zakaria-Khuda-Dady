@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **building A multi-tier, highly available, and fault-tolerant web application with MERN and AWS?**
 
-- 🌱 I’m currently learning **Ansible**
+- 🌱 I’m currently learning **Jenkins**
 
 - 💬 Ask me about **MERN, AWS**
 
